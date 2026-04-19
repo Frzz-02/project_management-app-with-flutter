@@ -560,8 +560,8 @@ packages:
   project_management_widgets:
     dependency: "direct main"
     description:
-      path: "D:\\Dart\\App\\project_management_widgets"
-      relative: false
+      path: "../project_management_widgets"
+      relative: true
     source: path
     version: "0.0.1"
   provider:
